@@ -2,7 +2,7 @@
 title: "Project1"
 author: "Tong Li"
 date: "July 17, 2016"
-output: html_document
+output: pdf_document
 ---
 
 ###Download and read in data
